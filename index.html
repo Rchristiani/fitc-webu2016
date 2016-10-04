@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta name="theme-color" content="#C41230">
+	<title>FITC Web Unleashed 2016</title>
+	<link rel="stylesheet" href="style.css">
+</head>
+<body>
+	<header>
+		<h1>Web Unleashed 2016 Day 2</h1>
+	</header>
+	<main id="app"></main>
+	<footer>Quick offline friendly schedule by <a href="https://twitter.com/RChristiani">Ryan Christiani</a> ❤️</footer>
+	<script src="js/templater.js"></script>
+	<script src="js/script.js"></script>
+	<script>
+		if('serviceWorker' in navigator) {
+			navigator.serviceWorker.register('./sw.js')
+				.then(reg => {
+					console.log('Service Worker Registered')
+				})
+				.catch(err => {
+					console.log(`Error registering worker ${err}`);
+				})
+		}
+	</script>
+</body>
+</html>
