@@ -9,7 +9,8 @@ self.addEventListener('install', () => {
 				'style.css',
 				'js/templater.js',
 				'js/script.js',
-				'data.json'
+				'data.json',
+				'js/fetch.js'
 			]);
 		});
 });
