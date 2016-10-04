@@ -1,4 +1,4 @@
-const cacheName = "fitc-v1";
+const cacheName = "fitc-v2";
 
 self.addEventListener('install', () => {
 	caches.open(cacheName)
