@@ -12,7 +12,7 @@
 				"room": "801B"
 			},
 			{
-				"spearker": "Anne Thomas",
+				"speaker": "Anne Thomas",
 				"talk": "Need For Speed: Tips to Optimize Your Website",
 				"room": "803A"
 			},
@@ -39,7 +39,7 @@
 				"room": "801B"
 			},
 			{
-				"spearker": "Irina Shestak",
+				"speaker": "Irina Shestak",
 				"talk": "Building Interactive npm Command Line Applications",
 				"room": "803A"
 			},
@@ -66,7 +66,7 @@
 				"room": "801B"
 			},
 			{
-				"spearker": "Dan Callahan",
+				"speaker": "Dan Callahan",
 				"talk": "What The Heck is WebAssembly, And Do I Have to Learn C Now?",
 				"room": "803A"
 			},
@@ -91,7 +91,7 @@
 				"room": "801B"
 			},
 			{
-				"spearker": "Rachael L Moore",
+				"speaker": "Rachael L Moore",
 				"talk": "Distributing UI Libraries in a Post-Web-Component World",
 				"room": "803A"
 			},
@@ -118,7 +118,7 @@
 				"room": "801B"
 			},
 			{
-				"spearker": "Clarissa Peterson",
+				"speaker": "Clarissa Peterson",
 				"talk": "Creating Beautiful, Accessible and User-Friendly Forms",
 				"room": "803A"
 			},
@@ -148,7 +148,7 @@
 				"room": "801B"
 			},
 			{
-				"spearker": "Carl Szieber",
+				"speaker": "Carl Szieber",
 				"talk": "Prototyping for Speed and Scale",
 				"room": "803A"
 			},
